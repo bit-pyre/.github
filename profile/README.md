@@ -24,4 +24,4 @@ Intellectual Property Rights and Copyrights belong to [the participants](https:/
   
 ## Disclaimer
 
-This repository is publicly accessible; however, sensitive information regarding the final solution might be kept private.
+This organization is publicly accessible; however, sensitive information regarding the final solution might be kept private.
