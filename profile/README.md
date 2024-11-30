@@ -22,6 +22,6 @@ Intellectual Property Rights and Copyrights belong to [the participants](https:/
 - [Tis Philippines/Japan Inc. Website](https://www.otismanila.com)
 - Inquiries: [otis.appcon@gmail.com](mailto:otis.appcon@gmail.com)
   
-## Disclaimer:
+## Disclaimer
 
 This repository is publicly accessible; however, sensitive information regarding the final solution might be kept private.
